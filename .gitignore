@@ -1,0 +1,17 @@
+# Agent and local research artifacts
+.agents/
+research/
+NOTES.md
+skills-lock.json
+
+# Node and package-manager output
+node_modules/
+dist/
+coverage/
+.npm/
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
