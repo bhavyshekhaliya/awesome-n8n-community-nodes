@@ -8,6 +8,7 @@ A submission should:
 
 - Be installable as an n8n community node package from the public npm registry.
 - Have a clear public package page and, preferably, a public source repository.
+- If no public GitHub repository can be verified, use `-` in the Source column.
 - Provide a meaningful integration, trigger, AI capability, data service, or workflow utility.
 - Include enough documentation for users to understand its purpose and basic setup.
 - Add value beyond an existing entry; avoid duplicate packages for the same integration unless they have materially different capabilities.
