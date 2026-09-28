@@ -31,6 +31,7 @@ Community nodes run third-party code in your n8n instance. This list is not a se
 | Package | What it adds | Source |
 | --- | --- | --- |
 | [`@nativeship/n8n-nodes-supermemory`](https://www.npmjs.com/package/@nativeship/n8n-nodes-supermemory) | Add documents and memories, search stored knowledge, and retrieve user profiles with Supermemory. | [GitHub](https://github.com/nativeship/n8n-nodes-supermemory) · [NativeShip](https://www.nativeship.io/nodes/supermemory) |
+| [`n8n-nodes-getyoutubetranscript`](https://www.npmjs.com/package/n8n-nodes-getyoutubetranscript) | Fetch YouTube transcripts, search videos, and list channel or playlist videos with GetYouTubeTranscript. Works as an AI Agent tool; requires a free API key (100 credits, no card). | [GitHub](https://github.com/tubeagentkit/n8n-nodes-getyoutubetranscript) |
 
 ## Analytics & BI
 
