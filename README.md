@@ -20,6 +20,7 @@ Community nodes run third-party code in your n8n instance. This list is not a se
 - [AI & LLM](#ai--llm)
 - [Analytics & BI](#analytics--bi)
 - [Email & Newsletters](#email--newsletters)
+- [Finance & Accounting](#finance--accounting)
 - [Sales & Lead Generation](#sales--lead-generation)
 - [SEO](#seo)
 - [Social Media](#social-media)
@@ -43,6 +44,12 @@ Community nodes run third-party code in your n8n instance. This list is not a se
 | Package | What it adds | Source |
 | --- | --- | --- |
 | [`@nativeship/n8n-nodes-reoon-email-verifier`](https://www.npmjs.com/package/@nativeship/n8n-nodes-reoon-email-verifier) | Check email addresses in quick or power mode and submit lists for bulk verification with Reoon Email Verifier. | [GitHub](https://github.com/nativeship/n8n-nodes-reoon-email-verifier) · [NativeShip](https://www.nativeship.io/nodes/reoon-email-verifier) |
+
+## Finance & Accounting
+
+| Package | What it adds | Source |
+| --- | --- | --- |
+| [`@francodesystems-npm/n8n-nodes-holded`](https://www.npmjs.com/package/@francodesystems-npm/n8n-nodes-holded) | Full Holded API v2 coverage (invoices, contacts, products, accounting, projects and team) plus a webhook trigger for Holded, the Spanish ERP and invoicing platform. Verified by n8n. | [GitHub](https://github.com/francodesystems/n8n-nodes-holded) |
 
 ## Sales & Lead Generation
 
