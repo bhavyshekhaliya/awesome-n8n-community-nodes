@@ -49,6 +49,7 @@ Community nodes run third-party code in your n8n instance. This list is not a se
 | Package | What it adds | Source |
 | --- | --- | --- |
 | [`@nativeship/n8n-nodes-sendpilot`](https://www.npmjs.com/package/@nativeship/n8n-nodes-sendpilot) | Manage LinkedIn campaigns and leads, read inbox conversations, and send messages with SendPilot. | [GitHub](https://github.com/nativeship/n8n-nodes-sendpilot) · [NativeShip](https://www.nativeship.io/nodes/sendpilot) |
+| [`n8n-nodes-looot`](https://www.npmjs.com/package/n8n-nodes-looot) | Search, inspect and run about 2,500 data endpoints (work email, phone, company enrichment, SERP, news) with one prepaid looot balance. | [GitHub](https://github.com/loootai/n8n-nodes-looot) |
 
 ## SEO
 
