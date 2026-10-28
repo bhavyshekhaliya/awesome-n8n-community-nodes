@@ -61,6 +61,7 @@ Community nodes run third-party code in your n8n instance. This list is not a se
 | Package | What it adds | Source |
 | --- | --- | --- |
 | [`@nativeship/n8n-nodes-postbridge`](https://www.npmjs.com/package/@nativeship/n8n-nodes-postbridge) | Create and schedule social posts, check publishing results, and view analytics with Post Bridge. | [GitHub](https://github.com/nativeship/n8n-nodes-postbridge) · [NativeShip](https://www.nativeship.io/nodes/postbridge) |
+| [`@wyroapi/n8n-nodes-wyro`](https://www.npmjs.com/package/@wyroapi/n8n-nodes-wyro) | Publish and schedule posts on Instagram, Facebook, TikTok, LinkedIn, X, Threads, YouTube, and Pinterest with one key; also usable as an AI Agent tool. | [GitHub](https://github.com/wyroapi/wyro/tree/main/n8n-nodes-wyro) · [wyro](https://wyroapi.com/n8n) |
 
 ## Contributing
 
