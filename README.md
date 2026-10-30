@@ -49,6 +49,7 @@ Community nodes run third-party code in your n8n instance. This list is not a se
 | Package | What it adds | Source |
 | --- | --- | --- |
 | [`@nativeship/n8n-nodes-sendpilot`](https://www.npmjs.com/package/@nativeship/n8n-nodes-sendpilot) | Manage LinkedIn campaigns and leads, read inbox conversations, and send messages with SendPilot. | [GitHub](https://github.com/nativeship/n8n-nodes-sendpilot) · [NativeShip](https://www.nativeship.io/nodes/sendpilot) |
+| [`n8n-nodes-ballast`](https://www.npmjs.com/package/n8n-nodes-ballast) | Automate cold email campaigns, manage leads, inspect warmup health, and trigger workflows on replies, bounces, or unsubscribes with Ballast. | [GitHub](https://github.com/useballast/n8n-nodes-ballast) |
 
 ## SEO
 
