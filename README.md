@@ -30,6 +30,7 @@ Community nodes run third-party code in your n8n instance. This list is not a se
 
 | Package | What it adds | Source |
 | --- | --- | --- |
+| [`n8n-nodes-agentsearch`](https://www.npmjs.com/package/n8n-nodes-agentsearch) | Run live web searches from workflows or as an AI Agent tool with AgentSearch, with a free tier and no credentials needed. | [GitHub](https://github.com/agentsearchhq-coder/n8n-nodes-agentsearch) · [AgentSearch](https://agentsearchhq.com) |
 | [`@nativeship/n8n-nodes-supermemory`](https://www.npmjs.com/package/@nativeship/n8n-nodes-supermemory) | Add documents and memories, search stored knowledge, and retrieve user profiles with Supermemory. | [GitHub](https://github.com/nativeship/n8n-nodes-supermemory) · [NativeShip](https://www.nativeship.io/nodes/supermemory) |
 
 ## Analytics & BI
