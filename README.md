@@ -23,6 +23,7 @@ Community nodes run third-party code in your n8n instance. This list is not a se
 - [Sales & Lead Generation](#sales--lead-generation)
 - [SEO](#seo)
 - [Social Media](#social-media)
+- [Web Capture & Documents](#web-capture--documents)
 - [Contributing](#contributing)
 - [Maintainer](#maintainer)
 
@@ -61,6 +62,12 @@ Community nodes run third-party code in your n8n instance. This list is not a se
 | Package | What it adds | Source |
 | --- | --- | --- |
 | [`@nativeship/n8n-nodes-postbridge`](https://www.npmjs.com/package/@nativeship/n8n-nodes-postbridge) | Create and schedule social posts, check publishing results, and view analytics with Post Bridge. | [GitHub](https://github.com/nativeship/n8n-nodes-postbridge) · [NativeShip](https://www.nativeship.io/nodes/postbridge) |
+
+## Web Capture & Documents
+
+| Package | What it adds | Source |
+| --- | --- | --- |
+| [`n8n-nodes-curlshot`](https://www.npmjs.com/package/n8n-nodes-curlshot) | Capture a URL, HTML or Markdown as a PNG, JPEG, WebP or PDF, record the page scrolling as MP4, WebM or GIF, and run background or bulk jobs with CurlShot. | [GitHub](https://github.com/SergiuPogor/n8n-nodes-curlshot) · [CurlShot](https://curlshot.com/docs/integrations/n8n) |
 
 ## Contributing
 
