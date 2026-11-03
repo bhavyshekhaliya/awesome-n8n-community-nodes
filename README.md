@@ -31,6 +31,7 @@ Community nodes run third-party code in your n8n instance. This list is not a se
 | Package | What it adds | Source |
 | --- | --- | --- |
 | [`@nativeship/n8n-nodes-supermemory`](https://www.npmjs.com/package/@nativeship/n8n-nodes-supermemory) | Add documents and memories, search stored knowledge, and retrieve user profiles with Supermemory. | [GitHub](https://github.com/nativeship/n8n-nodes-supermemory) · [NativeShip](https://www.nativeship.io/nodes/supermemory) |
+| [`n8n-nodes-videoupscaler`](https://www.npmjs.com/package/n8n-nodes-videoupscaler) | Upscale and enhance videos to 1080p or 4K, submit async jobs, and poll job status with VideoUpscaler. | [GitHub](https://github.com/arkyu2077/n8n-nodes-videoupscaler) · [VideoUpscaler](https://videoupscaler.co/integrations) |
 
 ## Analytics & BI
 
