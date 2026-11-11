@@ -48,6 +48,7 @@ Community nodes run third-party code in your n8n instance. This list is not a se
 
 | Package | What it adds | Source |
 | --- | --- | --- |
+| [`@jobspipe/n8n-nodes-jobspipe`](https://www.npmjs.com/package/@jobspipe/n8n-nodes-jobspipe) | Search live job postings, look up companies, and detect website tech stacks with JobsPipe. | [GitHub](https://github.com/jobspipe/n8n-nodes-jobspipe) |
 | [`@nativeship/n8n-nodes-sendpilot`](https://www.npmjs.com/package/@nativeship/n8n-nodes-sendpilot) | Manage LinkedIn campaigns and leads, read inbox conversations, and send messages with SendPilot. | [GitHub](https://github.com/nativeship/n8n-nodes-sendpilot) · [NativeShip](https://www.nativeship.io/nodes/sendpilot) |
 
 ## SEO
