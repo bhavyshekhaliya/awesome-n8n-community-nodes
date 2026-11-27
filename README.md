@@ -48,6 +48,7 @@ Community nodes run third-party code in your n8n instance. This list is not a se
 
 | Package | What it adds | Source |
 | --- | --- | --- |
+| [`n8n-nodes-batchdata`](https://www.npmjs.com/package/n8n-nodes-batchdata) | Search and look up U.S. properties, skip trace owners, verify addresses and phone numbers, find investors and permits, and manage property monitors with BatchData. | [GitHub](https://github.com/batchdataco/n8n-nodes-batchdata) · [BatchData](https://batchdata.io) |
 | [`@nativeship/n8n-nodes-sendpilot`](https://www.npmjs.com/package/@nativeship/n8n-nodes-sendpilot) | Manage LinkedIn campaigns and leads, read inbox conversations, and send messages with SendPilot. | [GitHub](https://github.com/nativeship/n8n-nodes-sendpilot) · [NativeShip](https://www.nativeship.io/nodes/sendpilot) |
 
 ## SEO
